@@ -1,8 +1,8 @@
 [
   {
     "name": "Swini",
-    "url": "https://replit.com/@swiyu91/Swini",
-    "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
+    "url": "https://9a0020c1-2012-4af8-a6ab-c532e3c96bb8-00-2jj8aylhri10d.pike.replit.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/9a0020c1-2012-4af8-a6ab-c532e3c96bb8-00-2jj8aylhri10d.pike.replit.dev.ico",
     "slug": "swini",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 640,
+    "timeDay": 640,
+    "timeWeek": 640,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   }
 ]
