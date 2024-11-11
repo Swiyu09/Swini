@@ -4,19 +4,19 @@
     "url": "https://9a0020c1-2012-4af8-a6ab-c532e3c96bb8-00-2jj8aylhri10d.pike.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/9a0020c1-2012-4af8-a6ab-c532e3c96bb8-00-2jj8aylhri10d.pike.replit.dev.ico",
     "slug": "swini",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 795,
-    "timeDay": 795,
-    "timeWeek": 795,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "status": "up",
+    "uptime": "97.30%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 9
     }
   }
 ]
